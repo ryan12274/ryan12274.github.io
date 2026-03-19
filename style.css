@@ -10,7 +10,7 @@ li {
     }
 
 img {
-      display: block;
+      display: inline-block;
       margin-top: 5px;
       width: 600px;
       height: auto;
